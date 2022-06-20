@@ -7,5 +7,9 @@ Updated on Jun20th
 Ex3.6 & Ex3.7 <br>
 Ref: Szeliski, R., *Computer Vision: Algorithms and Applications.* London: Springer, 2010.<br>
 Contain: Ex3.6&Ex3.7 code, img and report. 
+- lab02:<br>
+Ex4.1
+Ref: Szeliski, R., *Computer Vision: Algorithms and Applications.* London: Springer, 2010.<br>
+Contain: Ex4.1 code, img and report.
 - Final:<br>
 Final Report & Enhancement & Coring
